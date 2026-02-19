@@ -11,3 +11,9 @@ This project demonstrates structured manual testing of reservation workflows, pa
 - End-to-end reservation flow testing
 
 See detailed documentation in the repository files.
+
+
+
+# Author
+Marina Oliveira  
+Junior QA | Manual Testing | API Testing | SQL | Python | PyTest
